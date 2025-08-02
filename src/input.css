@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+
+@theme {
+  --color-primary: red;
+  --color-theme: blue;
+  --color-text: yellow;
+
+  --text-10xl: 50px;
+}
