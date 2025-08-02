@@ -1,7 +1,7 @@
 # Tailwind-CSS
 Learn Tailwind CSS
 
-=> Go https://tailwindcss.com/   this site
+=> Go https://tailwindcss.com/   this site <br>
 => Click Get Started
 => Go Tailwind CLI 
 => npm install tailwindcss @tailwindcss/cli   using terminal
